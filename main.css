@@ -1,0 +1,15 @@
+/* styles the whole page */
+body{
+    background-color: aqua;
+    color: darkblue;
+}
+
+h1{
+    color: royalblue;
+}
+
+/* custom css class */
+.errorMessage{
+    color: red;
+    padding: 15px;
+}
